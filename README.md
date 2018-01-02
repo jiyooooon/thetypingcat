@@ -1,6 +1,6 @@
 # thetypingcat
 
-Logging typing speed progress on typing tests (for fun)
+Logging progress on typing tests (for fun)
 
 ## [5 minute typing test](http://thetypingcat.com/typing-speed-test/5m)
 
