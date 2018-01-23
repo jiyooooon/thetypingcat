@@ -44,5 +44,8 @@ Logging progress on typing tests (for fun)
 
 ## [1 minute typing test](http://thetypingcat.com/typing-speed-test/1m)
 
+![alt text](https://github.com/julieeeeeee/thetypingcat/blob/master/1-23-18.png)
+1/23/18
+
 ![alt text](https://github.com/julieeeeeee/thetypingcat/blob/master/1-6-18.png)
 1/6/18
