@@ -39,6 +39,9 @@ Logging progress on typing tests (for fun)
 
 ## [3 minute typing test](http://thetypingcat.com/typing-speed-test/3m)
 
+![alt text](https://github.com/julieeeeeee/thetypingcat/blob/master/2-7-18.png)
+2/7/18
+
 ![alt text](https://github.com/julieeeeeee/thetypingcat/blob/master/2-6-18.png)
 2/6/18
 
